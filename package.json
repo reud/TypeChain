@@ -2,6 +2,7 @@
   "name": "monorepo-base",
   "private": true,
   "license": "MIT",
+  "version": "0.0.1"
   "engines": {
     "yarn": ">=1.15.2"
   },
